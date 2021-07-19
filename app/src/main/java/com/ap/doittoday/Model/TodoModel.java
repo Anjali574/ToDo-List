@@ -1,4 +1,5 @@
 package com.ap.doittoday.Model;
+////this is common object to hold our data
 
 public class TodoModel {
     private int id,status;
